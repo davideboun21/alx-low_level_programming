@@ -1,25 +1,3 @@
-Task 11.txt
-Who has access
-A
-System properties
-Type
-Text
-Size
-406 bytes
-Storage used
-406 bytes
-Location
-0x02. C - Functions, nested loops
-Owner
-Antony Bahati
-Modified
-1:13 PM by Antony Bahati
-Opened
-6:56 PM by me
-Created
-1:13 PM
-No description
-Viewers can download
 #include <stdio.h>
 
 /**
