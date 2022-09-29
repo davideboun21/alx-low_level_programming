@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "main.h"
+#include "holberton.h"
 /**
  * wildcmp - Entry Point
  * @s1: input
